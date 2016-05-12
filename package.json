@@ -1,6 +1,6 @@
 {
   "name": "operatingSystem",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "installationPath": "/usr/share/nginx/html/operating_system",
   "dependencies": {},
   "devDependencies": {
